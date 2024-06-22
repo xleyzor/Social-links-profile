@@ -5,7 +5,7 @@
 
 🌠 This is a Frontend Mentor challenge.
 
-🌠 HTML & SCSS
+🌠 HTML & CSS
 
 <ul>
     <li>
